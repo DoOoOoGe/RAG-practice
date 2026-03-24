@@ -1,5 +1,7 @@
 # RAG 练习项目
 
+[中文文档](README.md) | [English README](README_EN.md)
+
 ## 基本介绍
 
 这个项目是个人用于练习 LangChain Python 库的使用制作的项目。
